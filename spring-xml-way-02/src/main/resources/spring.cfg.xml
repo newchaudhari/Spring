@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.navin.Employee" name="employee" >
+        <property name="employeeId" value="101"/>
+        <property name="employeeName" value="Bhavesh"/>
+        <property name="employeeSalary" value="45000"/>
+    </bean>
+
+    <bean class="com.navin.Employee" name="employee2">
+
+        <property name="employeeId">
+            <value>201</value>
+        </property>
+
+        <property name="employeeName">
+            <value>Navin</value>
+        </property>
+
+        <property name="employeeSalary">
+            <value>68000</value>
+        </property>
+    </bean>
+
+</beans>
