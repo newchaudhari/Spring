@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-orm-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-xml-way-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-collection-03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-annotation-type-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc-properties-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-prototype-scope-04/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-pure-annotation-way-06/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-prototype-scope-xml-way-05/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
